@@ -2,7 +2,7 @@
   "data": {
     "popular": [
       {
-        "id": "0p0x1",
+        "id": "1",
         "title": "Air Max 97 Sky",
         "text": "MEN Outdoor Shoes",
         "rating": "4.9",
@@ -13,7 +13,7 @@
         "shadow": "shadow-lg shadow-blue-500"
       },
       {
-        "id": "0p0x2",
+        "id": "2",
         "title": "Nike Hiking Shoes",
         "text": "Women Hiking Shoes",
         "rating": "4.3",
@@ -24,7 +24,7 @@
         "shadow": "shadow-lg shadow-Pink-500"
       },
       {
-        "id": "0p0x3",
+        "id": "3",
         "title": "Nike Running Shoes",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -35,9 +35,9 @@
         "shadow": "shadow-lg shadow-Indigo-300"
       }
     ],
-    "top-rated": [
+    "top": [
       {
-        "id": "0t0x1",
+        "id": "1",
         "title": "Air Presto Sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.8",
@@ -48,7 +48,7 @@
         "shadow": "shadow-lg shadow-Orange-900"
       },
       {
-        "id": "0t0x2",
+        "id": "2",
         "title": "Free Air Force",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -59,7 +59,7 @@
         "shadow": "shadow-lg shadow-Orange-300"
       },
       {
-        "id": "0t0x3",
+        "id": "3",
         "title": "Mercurial Vapor Tennis",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -70,7 +70,7 @@
         "shadow": "shadow-lg shadow-Sky-500"
       },
       {
-        "id": "0t0x4",
+        "id": "4",
         "title": "Nike Running Shoes WP1",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -81,7 +81,7 @@
         "shadow": "shadow-lg shadow-Green-500"
       },
       {
-        "id": "0t0x5",
+        "id": "5",
         "title": "Air Max Running",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -92,7 +92,7 @@
         "shadow": "shadow-lg shadow-Neutral-500"
       },
       {
-        "id": "0t0x6",
+        "id": "6",
         "title": "Blue Basketball Shoes",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -103,7 +103,7 @@
         "shadow": "shadow-lg shadow-Red-500"
       },
       {
-        "id": "0t0x7",
+        "id": "7",
         "title": "Nike Footwear Sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.5",
@@ -114,7 +114,7 @@
         "shadow": "shadow-lg shadow-Slate-300"
       },
       {
-        "id": "0t0x8",
+        "id": "8",
         "title": "Big Shoes Footwear",
         "text": "MEN Running Shoes",
         "rating": "4.8",
@@ -125,7 +125,7 @@
         "shadow": "shadow-lg shadow-Teal-400"
       },
       {
-        "id": "0t0x9",
+        "id": "9",
         "title": "Kids Jordan Nike",
         "text": "Kids Hiking Shoes",
         "rating": "4.6",
@@ -136,7 +136,7 @@
         "shadow": "shadow-lg shadow-Orange-500"
       },
       {
-        "id": "0t0x10",
+        "id": "10",
         "title": "Jumpman Nike Basketball",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -147,7 +147,7 @@
         "shadow": "shadow-lg shadow-Orange-600"
       },
       {
-        "id": "0t0x11",
+        "id": "11",
         "title": "Nike Air Max 99",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -158,7 +158,7 @@
         "shadow": "shadow-lg shadow-Orange-300"
       },
       {
-        "id": "0t0x12",
+        "id": "12",
         "title": "Skate Shoes Nike",
         "text": "MEN Running Shoes",
         "rating": "4.4",
@@ -172,7 +172,7 @@
 
     "men": [
       {
-        "id": "m1",
+        "id": "1",
         "title": "Air Jordan Sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -183,7 +183,7 @@
         "shadow": "shadow-lg shadow-Green-200"
       },
       {
-        "id": "m2",
+        "id": "2",
         "title": "Air Jordan Shoe",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -194,7 +194,7 @@
         "shadow": "shadow-lg shadow-Neutral-500"
       },
       {
-        "id": "m3",
+        "id": "3",
         "title": "Air Jordan Sneakers GR78",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -205,7 +205,7 @@
         "shadow": "shadow-lg shadow-Neutral-900"
       },
       {
-        "id": "m4",
+        "id": "4",
         "title": "Air Jordan Sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.5",
@@ -216,7 +216,7 @@
         "shadow": "shadow-lg shadow-Blue-600"
       },
       {
-        "id": "m5",
+        "id": "5",
         "title": "Air Max Running",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -227,7 +227,7 @@
         "shadow": "shadow-lg shadow-Lime-400"
       },
       {
-        "id": "m6",
+        "id": "6",
         "title": "Free Air Force",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -238,7 +238,7 @@
         "shadow": "shadow-lg shadow-Neutral-500"
       },
       {
-        "id": "m7",
+        "id": "7",
         "title": "Air Max 97 White",
         "text": "MEN Running Shoes",
         "rating": "4.8",
@@ -249,7 +249,7 @@
         "shadow": "shadow-lg shadow-Purple-800"
       },
       {
-        "id": "m8",
+        "id": "8",
         "title": "Blue basketball shoes",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -260,7 +260,7 @@
         "shadow": "shadow-lg shadow-Zinc-300"
       },
       {
-        "id": "m9",
+        "id": "9",
         "title": "Air Max 97 Red",
         "text": "Kids Hiking Shoes",
         "rating": "4.4",
@@ -271,7 +271,7 @@
         "shadow": "shadow-lg shadow-Red-800"
       },
       {
-        "id": "m10",
+        "id": "10",
         "title": "Big Shoe Footwear",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -282,7 +282,7 @@
         "shadow": "shadow-lg shadow-Lime-100"
       },
       {
-        "id": "m11",
+        "id": "11",
         "title": "Air Max 97 Blue",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -293,7 +293,7 @@
         "shadow": "shadow-lg shadow-Sky-300"
       },
       {
-        "id": "m12",
+        "id": "12",
         "title": "Air Presto Sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -304,7 +304,7 @@
         "shadow": "shadow-lg shadow-Amber-200"
       },
       {
-        "id": "m13",
+        "id": "13",
         "title": "Nike hiking Shoe",
         "text": "MEN Running Shoes",
         "rating": "4.5",
@@ -315,7 +315,7 @@
         "shadow": "shadow-lg shadow-Red-300"
       },
       {
-        "id": "m14",
+        "id": "14",
         "title": "Nike Air Max 97",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -326,7 +326,7 @@
         "shadow": "shadow-lg shadow-Teal-300"
       },
       {
-        "id": "m15",
+        "id": "15",
         "title": "Jumpman Nike Basketball",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -337,7 +337,7 @@
         "shadow": "shadow-lg shadow-Red-500"
       },
       {
-        "id": "m16",
+        "id": "16",
         "title": "Mercurial Vapor Tennis",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -348,7 +348,7 @@
         "shadow": "shadow-lg shadow-Lime-500"
       },
       {
-        "id": "m17",
+        "id": "17",
         "title": "Nike outdoor Shoe BZ2",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -359,7 +359,7 @@
         "shadow": "shadow-lg shadow-Cyan-300"
       },
       {
-        "id": "m18",
+        "id": "18",
         "title": "Nike jogging shoes",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -370,7 +370,7 @@
         "shadow": "shadow-lg shadow-Purple-500"
       },
       {
-        "id": "m19",
+        "id": "19",
         "title": "Nike New Balance",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -381,7 +381,7 @@
         "shadow": "shadow-lg shadow-Orange-300"
       },
       {
-        "id": "m20",
+        "id": "20",
         "title": "Nike jogging Red",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -392,7 +392,7 @@
         "shadow": "shadow-lg shadow-Fuchsia-200"
       },
       {
-        "id": "m21",
+        "id": "21",
         "title": "Presto Sneakers Grey",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -403,7 +403,7 @@
         "shadow": "shadow-lg shadow-Pink-700"
       },
       {
-        "id": "m22",
+        "id": "22",
         "title": "Nike Sneakers Shoe",
         "text": "MEN Running Shoes",
         "rating": "4.8",
@@ -414,7 +414,7 @@
         "shadow": "shadow-lg shadow-Sky-500"
       },
       {
-        "id": "m23",
+        "id": "23",
         "title": "outdoor Shoe sneakers",
         "text": "MEN Running Shoes",
         "rating": "4.7",
@@ -425,7 +425,7 @@
         "shadow": "shadow-lg shadow-Zinc-200"
       },
       {
-        "id": "m24",
+        "id": "24",
         "title": "Nike outdoor Shoe",
         "text": "MEN Running Shoes",
         "rating": "4.9",
@@ -436,7 +436,7 @@
         "shadow": "shadow-lg shadow-Slate-900"
       },
       {
-        "id": "m25",
+        "id": "25",
         "title": "Sneakers graphy Shoe",
         "text": "MEN Running Shoes",
         "rating": "4.2",
@@ -447,7 +447,7 @@
         "shadow": "shadow-lg shadow-Amber-400"
       },
       {
-        "id": "m26",
+        "id": "26",
         "title": "Sneakers Dynamic Fit",
         "text": "MEN Running Shoes",
         "rating": "4.3",
@@ -458,7 +458,7 @@
         "shadow": "shadow-lg shadow-Teal-300"
       },
       {
-        "id": "m27",
+        "id": "27",
         "title": "Skate shoe Nike",
         "text": "MEN Running Shoes",
         "rating": "4.4",
@@ -469,7 +469,7 @@
         "shadow": "shadow-lg shadow-Teal-50"
       },
       {
-        "id": "m28",
+        "id": "28",
         "title": "Shoe Nike Toe",
         "text": "MEN Running Shoes",
         "rating": "4.1",
@@ -480,7 +480,7 @@
         "shadow": "shadow-lg shadow-Orange-500"
       },
       {
-        "id": "m29",
+        "id": "29",
         "title": "Sneakers New Balance",
         "text": "MEN Running Shoes",
         "rating": "4.8",
@@ -493,7 +493,7 @@
     ],
     "women": [
       {
-        "id": "w1",
+        "id": "1",
         "title": "Nike Sneakers Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.1",
@@ -504,7 +504,7 @@
         "shadow": "shadow-lg shadow-Pink-500"
       },
       {
-        "id": "w2",
+        "id": "2",
         "title": "Women Max 97 Sky",
         "text": "Women Hiking Shoes",
         "rating": "4.3",
@@ -515,7 +515,7 @@
         "shadow": "shadow-lg shadow-Indigo-200"
       },
       {
-        "id": "w3",
+        "id": "3",
         "title": "Mercurial Vapor Tennis",
         "text": "Women Hiking Shoes",
         "rating": "4.4",
@@ -526,7 +526,7 @@
         "shadow": "shadow-lg shadow-Sky-500"
       },
       {
-        "id": "w4",
+        "id": "4",
         "title": "Nike jogging shoes",
         "text": "Women Hiking Shoes",
         "rating": "4.6",
@@ -537,7 +537,7 @@
         "shadow": "shadow-lg shadow-Fuchsia-300"
       },
       {
-        "id": "w5",
+        "id": "5",
         "title": "Air Max Running",
         "text": "Women Hiking Shoes",
         "rating": "4.0",
@@ -548,7 +548,7 @@
         "shadow": "shadow-lg shadow-Teal-200"
       },
       {
-        "id": "w6",
+        "id": "6",
         "title": "Women Max 97 Red",
         "text": "Women Hiking Shoes",
         "rating": "4.2",
@@ -559,7 +559,7 @@
         "shadow": "shadow-lg shadow-Pink-700"
       },
       {
-        "id": "w7",
+        "id": "7",
         "title": "Women Flywire Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.9",
@@ -570,7 +570,7 @@
         "shadow": "shadow-lg shadow-Purple-200"
       },
       {
-        "id": "w8",
+        "id": "8",
         "title": "Free Air Force",
         "text": "Women Hiking Shoes",
         "rating": "4.8",
@@ -581,7 +581,7 @@
         "shadow": "shadow-lg shadow-Blue-800"
       },
       {
-        "id": "w9",
+        "id": "9",
         "title": "Basketball shoe Sportswear",
         "text": "Women Hiking Shoes",
         "rating": "4.5",
@@ -592,7 +592,7 @@
         "shadow": "shadow-lg shadow-Blue-100"
       },
       {
-        "id": "w10",
+        "id": "10",
         "title": "Nike Footwear Sneakers",
         "text": "Women Hiking Shoes",
         "rating": "4.6",
@@ -603,7 +603,7 @@
         "shadow": "shadow-lg shadow-Yellow-100"
       },
       {
-        "id": "w11",
+        "id": "11",
         "title": "Free Air Max",
         "text": "Women Hiking Shoes",
         "rating": "4.4",
@@ -614,7 +614,7 @@
         "shadow": "shadow-lg shadow-Purple-900"
       },
       {
-        "id": "w12",
+        "id": "12",
         "title": "Nike New Balance",
         "text": "Women Hiking Shoes",
         "rating": "4.2",
@@ -625,7 +625,7 @@
         "shadow": "shadow-lg shadow-Orange-700"
       },
       {
-        "id": "w13",
+        "id": "13",
         "title": "boot Cleat Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.9",
@@ -636,7 +636,7 @@
         "shadow": "shadow-lg shadow-Amber-200"
       },
       {
-        "id": "w14",
+        "id": "14",
         "title": "Women outdoor Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.6",
@@ -647,7 +647,7 @@
         "shadow": "shadow-lg shadow-Red-200"
       },
       {
-        "id": "w15",
+        "id": "15",
         "title": "Shoe Nike Toe",
         "text": "Women Hiking Shoes",
         "rating": "4.2",
@@ -658,7 +658,7 @@
         "shadow": "shadow-lg shadow-Pink-600"
       },
       {
-        "id": "w16",
+        "id": "16",
         "title": "Air Max Running BL52",
         "text": "Women Hiking Shoes",
         "rating": "4.3",
@@ -669,7 +669,7 @@
         "shadow": "shadow-lg shadow-Gray-900"
       },
       {
-        "id": "w17",
+        "id": "17",
         "title": "Nike outdoor Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.8",
@@ -680,7 +680,7 @@
         "shadow": "shadow-lg shadow-Green-200"
       },
       {
-        "id": "w18",
+        "id": "18",
         "title": "Presto Sneakers Grey",
         "text": "Women Hiking Shoes",
         "rating": "4.2",
@@ -691,7 +691,7 @@
         "shadow": "shadow-lg shadow-Orange-500"
       },
       {
-        "id": "w19",
+        "id": "19",
         "title": "Jumpman Nike Basketball",
         "text": "Women Hiking Shoes",
         "rating": "4.7",
@@ -702,7 +702,7 @@
         "shadow": "shadow-lg shadow-Red-400"
       },
       {
-        "id": "w20",
+        "id": "20",
         "title": "Air Force Women",
         "text": "Women Hiking Shoes",
         "rating": "4.9",
@@ -713,7 +713,7 @@
         "shadow": "shadow-lg shadow-Zinc-500"
       },
       {
-        "id": "w21",
+        "id": "21",
         "title": "Nike running shoes WP1",
         "text": "Women Hiking Shoes",
         "rating": "4.2",
@@ -724,7 +724,7 @@
         "shadow": "shadow-lg shadow-Pink-600"
       },
       {
-        "id": "w22",
+        "id": "22",
         "title": "Skate shoe Nike",
         "text": "Women Hiking Shoes",
         "rating": "4.6",
@@ -735,7 +735,7 @@
         "shadow": "shadow-lg shadow-Purple-700"
       },
       {
-        "id": "w23",
+        "id": "23",
         "title": "Nike Air Max 97",
         "text": "Women Hiking Shoes",
         "rating": "4.1",
@@ -746,7 +746,7 @@
         "shadow": "shadow-lg shadow-Fuchsia-200"
       },
       {
-        "id": "w24",
+        "id": "24",
         "title": "Air Jordan Sneakers",
         "text": "Women Hiking Shoes",
         "rating": "4.7",
@@ -757,7 +757,7 @@
         "shadow": "shadow-lg shadow-Violet-900"
       },
       {
-        "id": "w25",
+        "id": "25",
         "title": "Air Jordan Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.4",
@@ -768,7 +768,7 @@
         "shadow": "shadow-lg shadow-Lime-500"
       },
       {
-        "id": "w26",
+        "id": "26",
         "title": "Air Presto Sneakers",
         "text": "Women Hiking Shoes",
         "rating": "4.7",
@@ -779,7 +779,7 @@
         "shadow": "shadow-lg shadow-Sky-300"
       },
       {
-        "id": "w27",
+        "id": "27",
         "title": "Nike running shoes",
         "text": "Women Hiking Shoes",
         "rating": "4.4",
@@ -790,7 +790,7 @@
         "shadow": "shadow-lg shadow-Fuchsia-300"
       },
       {
-        "id": "w28",
+        "id": "28",
         "title": "Nike jogging Red",
         "text": "Women Hiking Shoes",
         "rating": "4.1",
@@ -801,7 +801,7 @@
         "shadow": "shadow-lg shadow-Rose-700"
       },
       {
-        "id": "w29",
+        "id": "29",
         "title": "outdoor Shoe sneakers",
         "text": "Women Hiking Shoes",
         "rating": "4.5",
@@ -812,7 +812,7 @@
         "shadow": "shadow-lg shadow-Cyan-300"
       },
       {
-        "id": "w30",
+        "id": "30",
         "title": "Air Jordan Nike",
         "text": "Women Hiking Shoes",
         "rating": "4.5",
@@ -823,7 +823,7 @@
         "shadow": "shadow-lg shadow-Pink-600"
       },
       {
-        "id": "w31",
+        "id": "31",
         "title": "Big Shoe Footwear",
         "text": "Women Hiking Shoes",
         "rating": "4.1",
@@ -834,7 +834,7 @@
         "shadow": "shadow-lg shadow-Blue-300"
       },
       {
-        "id": "w32",
+        "id": "32",
         "title": "Sneakers graphy Shoe",
         "text": "Women Hiking Shoes",
         "rating": "4.4",
@@ -845,7 +845,7 @@
         "shadow": "shadow-lg shadow-Teal-300"
       },
       {
-        "id": "w33",
+        "id": "33",
         "title": "Air Force Nike",
         "text": "Women Hiking Shoes",
         "rating": "4.7",
@@ -1464,6 +1464,18 @@
         "price": "130",
         "color": "background:linear-gradient(90deg,#FFDCB8 0%,#C7FFD0 100%);",
         "shadow": "shadow-lg shadow-Emerald-100"
+      }
+    ],
+    "covers": [
+      {
+        "menpng": "../assets/covers/mencover.png",
+        "mensvg": "../assets/covers/mencover.svg",
+        "womenpng": "../assets/covers/womencover.png",
+        "womensvg": "../assets/covers/womencover.svg",
+        "kidspng": "../assets/covers/kidscover.png",
+        "kidssvg": "../assets/covers/kidscover.svg",
+        "collectionspng": "../assets/covers/collectionscover.png",
+        "collectionssvg": "../assets/covers/collectionscover.svg"
       }
     ]
   }
