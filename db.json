@@ -10,7 +10,7 @@
         "img": "../assets/landing/Air Max 97 Sky.png",
         "price": "200",
         "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)",
-        "shadow": "shadow-blue-500"
+        "shadow": "blue-500"
       },
       {
         "id": "2",
@@ -21,7 +21,7 @@
         "img": "../assets/landing/Nike Hiking Shoes.png",
         "price": "170",
         "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)",
-        "shadow": "shadow-pink-500"
+        "shadow": "pink-500"
       },
       {
         "id": "3",
@@ -32,7 +32,7 @@
         "img": "../assets/landing/Nike Running Shoes.png",
         "price": "250",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-indigo-300"
+        "shadow": "indigo-300"
       }
     ],
     "top": [
@@ -45,7 +45,7 @@
         "img": "../assets/landing/Air Presto Sneakers.png",
         "price": "140",
         "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)",
-        "shadow": "shadow-orange-900"
+        "shadow": "orange-900"
       },
       {
         "id": "2",
@@ -56,7 +56,7 @@
         "img": "../assets/landing/Free Air Force.png",
         "price": "140",
         "color": "linear-gradient(90deg,#9A7A63 0%,#FFFFFF 100%)",
-        "shadow": "shadow-orange-300"
+        "shadow": "orange-300"
       },
       {
         "id": "3",
@@ -67,7 +67,7 @@
         "img": "../assets/landing/Mercurial Vapor Tennis.png",
         "price": "270",
         "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)",
-        "shadow": "shadow-sky-500"
+        "shadow": "sky-500"
       },
       {
         "id": "4",
@@ -78,7 +78,7 @@
         "img": "../assets/landing/Nike Running Shoes WP1.png",
         "price": "210",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-green-500"
+        "shadow": "green-500"
       },
       {
         "id": "5",
@@ -89,7 +89,7 @@
         "img": "../assets/landing/Air Max Running.png",
         "price": "150",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-neutral-500"
+        "shadow": "neutral-500"
       },
       {
         "id": "6",
@@ -100,7 +100,7 @@
         "img": "../assets/landing/Blue Basketball Shoes.png",
         "price": "170",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)",
-        "shadow": "shadow-red-500"
+        "shadow": "red-500"
       },
       {
         "id": "7",
@@ -111,7 +111,7 @@
         "img": "../assets/landing/Nike Footwear Sneakers.png",
         "price": "220",
         "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)",
-        "shadow": "shadow-slate-300"
+        "shadow": "slate-300"
       },
       {
         "id": "8",
@@ -122,7 +122,7 @@
         "img": "../assets/landing/Big Shoes Footwear.png",
         "price": "130",
         "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)",
-        "shadow": "shadow-teal-400"
+        "shadow": "teal-400"
       },
       {
         "id": "9",
@@ -133,7 +133,7 @@
         "img": "../assets/landing/Kids Jordan Nike.png",
         "price": "180",
         "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       },
       {
         "id": "10",
@@ -144,7 +144,7 @@
         "img": "../assets/landing/Jumpman Nike Basketball.png",
         "price": "230",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)",
-        "shadow": "shadow-orange-600"
+        "shadow": "orange-600"
       },
       {
         "id": "11",
@@ -155,7 +155,7 @@
         "img": "../assets/landing/Nike Air Max 99.png",
         "price": "190",
         "color": "linear-gradient(135deg,#DD9E71 0%,#BEE4C9 100%)",
-        "shadow": "shadow-orange-300"
+        "shadow": "orange-300"
       },
       {
         "id": "12",
@@ -166,7 +166,7 @@
         "img": "../assets/landing/Skate Shoes Nike.png",
         "price": "160",
         "color": "linear-gradient(90deg,#B1FE64 0%,#24C75B 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       }
     ],
 
@@ -180,7 +180,7 @@
         "img": "../assets/men/Air Jordan Sneakers.png",
         "price": "170",
         "color": "linear-gradient(90deg,#9EFFEF 0%,#C2FFE4 100%)",
-        "shadow": "shadow-green-200"
+        "shadow": "green-200"
       },
       {
         "id": "2",
@@ -191,7 +191,7 @@
         "img": "../assets/men/Air Jordan Shoe.png",
         "price": "130",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-neutral-500"
+        "shadow": "neutral-500"
       },
       {
         "id": "3",
@@ -202,7 +202,7 @@
         "img": "../assets/men/Air Jordan Sneakers GR78.png",
         "price": "210",
         "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)",
-        "shadow": "shadow-neutral-900"
+        "shadow": "neutral-900"
       },
       {
         "id": "4",
@@ -213,7 +213,7 @@
         "img": "../assets/men/Air Jordan Sneakers.png",
         "price": "180",
         "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)",
-        "shadow": "shadow-blue-600"
+        "shadow": "blue-600"
       },
       {
         "id": "5",
@@ -224,7 +224,7 @@
         "img": "../assets/men/Air Max Running.png",
         "price": "150",
         "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)",
-        "shadow": "shadow-lime-400"
+        "shadow": "lime-400"
       },
       {
         "id": "6",
@@ -235,7 +235,7 @@
         "img": "../assets/men/Free Air Force.png",
         "price": "140",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-neutral-500"
+        "shadow": "neutral-500"
       },
       {
         "id": "7",
@@ -246,7 +246,7 @@
         "img": "../assets/men/Air Max 97 White.png",
         "price": "250",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-purple-800"
+        "shadow": "purple-800"
       },
       {
         "id": "8",
@@ -257,7 +257,7 @@
         "img": "../assets/men/Blue basketball shoes.png",
         "price": "230",
         "color": "linear-gradient(90deg,#22567B 0%,#C1E1FF 100%)",
-        "shadow": "shadow-zinc-300"
+        "shadow": "zinc-300"
       },
       {
         "id": "9",
@@ -268,7 +268,7 @@
         "img": "../assets/men/Air Max 97 Red.png",
         "price": "120",
         "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)",
-        "shadow": "shadow-red-800"
+        "shadow": "red-800"
       },
       {
         "id": "10",
@@ -279,7 +279,7 @@
         "img": "../assets/men/Big Shoe Footwear.png",
         "price": "160",
         "color": "linear-gradient(90deg,#FFDCB8 0%,#C7FFD0 100%)",
-        "shadow": "shadow-lime-100"
+        "shadow": "lime-100"
       },
       {
         "id": "11",
@@ -290,7 +290,7 @@
         "img": "../assets/men/Air Max 97 Blue.png",
         "price": "190",
         "color": "linear-gradient(135deg,#9BF8F4 0%,#6F7BF7 100%)",
-        "shadow": "shadow-sky-300"
+        "shadow": "sky-300"
       },
       {
         "id": "12",
@@ -301,7 +301,7 @@
         "img": "../assets/men/Air Presto Sneakers.png",
         "price": "260",
         "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)",
-        "shadow": "shadow-amber-200"
+        "shadow": "amber-200"
       },
       {
         "id": "13",
@@ -312,7 +312,7 @@
         "img": "../assets/men/Nike hiking Shoe.png",
         "price": "170",
         "color": "linear-gradient(135deg,#FECDD7 0%,#FECDFB 100%)",
-        "shadow": "shadow-red-300"
+        "shadow": "red-300"
       },
       {
         "id": "14",
@@ -323,7 +323,7 @@
         "img": "../assets/men/Nike Air Max 97.png",
         "price": "150",
         "color": "linear-gradient(90deg,#BAFFAD 0%,#ADCEFF 100%)",
-        "shadow": "shadow-teal-300"
+        "shadow": "teal-300"
       },
       {
         "id": "15",
@@ -334,7 +334,7 @@
         "img": "../assets/men/Jumpman Nike Basketball.png",
         "price": "180",
         "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)",
-        "shadow": "shadow-red-500"
+        "shadow": "red-500"
       },
       {
         "id": "16",
@@ -345,7 +345,7 @@
         "img": "../assets/men/Mercurial Vapor Tennis.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       },
       {
         "id": "17",
@@ -356,7 +356,7 @@
         "img": "../assets/men/Nike outdoor Shoe BZ2.png",
         "price": "190",
         "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)",
-        "shadow": "shadow-cyan-300"
+        "shadow": "cyan-300"
       },
       {
         "id": "18",
@@ -367,7 +367,7 @@
         "img": "../assets/men/Nike jogging shoes.png",
         "price": "150",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-purple-500"
+        "shadow": "purple-500"
       },
       {
         "id": "19",
@@ -378,7 +378,7 @@
         "img": "../assets/men/Nike New Balance.png",
         "price": "190",
         "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)",
-        "shadow": "shadow-orange-300"
+        "shadow": "orange-300"
       },
       {
         "id": "20",
@@ -389,7 +389,7 @@
         "img": "../assets/men/Nike jogging Red.png",
         "price": "210",
         "color": "linear-gradient(135deg,#FECDD7 0%,#FECDFB 100%)",
-        "shadow": "shadow-fuchsia-200"
+        "shadow": "fuchsia-200"
       },
       {
         "id": "21",
@@ -400,7 +400,7 @@
         "img": "../assets/men/Presto Sneakers Grey.png",
         "price": "150",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-700"
+        "shadow": "pink-700"
       },
       {
         "id": "22",
@@ -411,7 +411,7 @@
         "img": "../assets/men/Nike Sneakers Shoe.png",
         "price": "240",
         "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)",
-        "shadow": "shadow-sky-500"
+        "shadow": "sky-500"
       },
       {
         "id": "23",
@@ -422,7 +422,7 @@
         "img": "../assets/men/outdoor Shoe sneakers.png",
         "price": "170",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-zinc-200"
+        "shadow": "zinc-200"
       },
       {
         "id": "24",
@@ -433,7 +433,7 @@
         "img": "../assets/men/Nike outdoor Shoe.png",
         "price": "260",
         "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)",
-        "shadow": "shadow-slate-900"
+        "shadow": "slate-900"
       },
       {
         "id": "25",
@@ -444,7 +444,7 @@
         "img": "../assets/men/Sneakers graphy Shoe.png",
         "price": "180",
         "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)",
-        "shadow": "shadow-amber-400"
+        "shadow": "amber-400"
       },
       {
         "id": "26",
@@ -455,7 +455,7 @@
         "img": "../assets/men/Sneakers Dynamic Fit.png",
         "price": "140",
         "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)",
-        "shadow": "shadow-teal-300"
+        "shadow": "teal-300"
       },
       {
         "id": "27",
@@ -466,7 +466,7 @@
         "img": "../assets/men/Skate shoe Nike.png",
         "price": "160",
         "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)",
-        "shadow": "shadow-teal-50"
+        "shadow": "teal-50"
       },
       {
         "id": "28",
@@ -477,7 +477,7 @@
         "img": "../assets/men/Shoe Nike Toe.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       },
       {
         "id": "29",
@@ -488,7 +488,7 @@
         "img": "../assets/men/Sneakers New Balance.png",
         "price": "170",
         "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)",
-        "shadow": "shadow-stone-900"
+        "shadow": "stone-900"
       }
     ],
     "women": [
@@ -501,7 +501,7 @@
         "img": "../assets/women/Nike Sneakers Shoe.png",
         "price": "140",
         "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)",
-        "shadow": "shadow-pink-500"
+        "shadow": "pink-500"
       },
       {
         "id": "2",
@@ -512,7 +512,7 @@
         "img": "../assets/women/Women Max 97 sky.png",
         "price": "140",
         "color": "linear-gradient(90deg,#22567B 0%,#C1E1FF 100%)",
-        "shadow": "shadow-indigo-200"
+        "shadow": "indigo-200"
       },
       {
         "id": "3",
@@ -523,7 +523,7 @@
         "img": "../assets/women/Mercurial Vapor Tennis.png",
         "price": "220",
         "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)",
-        "shadow": "shadow-sky-500"
+        "shadow": "sky-500"
       },
       {
         "id": "4",
@@ -534,7 +534,7 @@
         "img": "../assets/women/Nike jogging shoes.png",
         "price": "190",
         "color": "linear-gradient(180deg,#FFC7CA 0%,#E299FF 100%)",
-        "shadow": "shadow-fuchsia-300"
+        "shadow": "fuchsia-300"
       },
       {
         "id": "5",
@@ -545,7 +545,7 @@
         "img": "../assets/women/Air Max Running.png",
         "price": "140",
         "color": "linear-gradient(90deg,#9EFFEF 0%,#C2FFE4 100%)",
-        "shadow": "shadow-teal-200"
+        "shadow": "teal-200"
       },
       {
         "id": "6",
@@ -556,7 +556,7 @@
         "img": "../assets/women/Women Max 97 Red.png",
         "price": "130",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-700"
+        "shadow": "pink-700"
       },
       {
         "id": "7",
@@ -567,7 +567,7 @@
         "img": "../assets/women/Women Flywire Shoe.png",
         "price": "200",
         "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)",
-        "shadow": "shadow-purple-200"
+        "shadow": "purple-200"
       },
       {
         "id": "8",
@@ -578,7 +578,7 @@
         "img": "../assets/women/Free Air Force.png",
         "price": "210",
         "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)",
-        "shadow": "shadow-blue-800"
+        "shadow": "blue-800"
       },
       {
         "id": "9",
@@ -589,7 +589,7 @@
         "img": "../assets/women/Basketball shoe Sportswear.png",
         "price": "150",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-blue-100"
+        "shadow": "blue-100"
       },
       {
         "id": "10",
@@ -600,7 +600,7 @@
         "img": "../assets/women/Nike Footwear Sneakers.png",
         "price": "180",
         "color": "linear-gradient(90deg,#9A7A63 0%,#FFFFFF 100%)",
-        "shadow": "shadow-yellow-100"
+        "shadow": "yellow-100"
       },
       {
         "id": "11",
@@ -611,7 +611,7 @@
         "img": "../assets/women/Free Air Max.png",
         "price": "140",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-purple-900"
+        "shadow": "purple-900"
       },
       {
         "id": "12",
@@ -622,7 +622,7 @@
         "img": "../assets/women/Nike New Balance.png",
         "price": "160",
         "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)",
-        "shadow": "shadow-orange-700"
+        "shadow": "orange-700"
       },
       {
         "id": "13",
@@ -633,7 +633,7 @@
         "img": "../assets/women/boot Cleat Shoe.png",
         "price": "270",
         "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)",
-        "shadow": "shadow-amber-200"
+        "shadow": "amber-200"
       },
       {
         "id": "14",
@@ -644,7 +644,7 @@
         "img": "../assets/women/Women outdoor Shoe.png",
         "price": "190",
         "color": "linear-gradient(135deg,#FECDD7 0%,#FECDFB 100%)",
-        "shadow": "shadow-red-200"
+        "shadow": "red-200"
       },
       {
         "id": "15",
@@ -655,7 +655,7 @@
         "img": "../assets/women/Shoe Nike Toe.png",
         "price": "190",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-600"
+        "shadow": "pink-600"
       },
       {
         "id": "16",
@@ -666,7 +666,7 @@
         "img": "../assets/women/Air Max Running BL52.png",
         "price": "180",
         "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)",
-        "shadow": "shadow-gray-900"
+        "shadow": "gray-900"
       },
       {
         "id": "17",
@@ -677,7 +677,7 @@
         "img": "../assets/women/Nike outdoor Shoe BZ2.png",
         "price": "170",
         "color": "linear-gradient(90deg,#BAFFAD 0%,#ADCEFF 100%)",
-        "shadow": "shadow-green-200"
+        "shadow": "green-200"
       },
       {
         "id": "18",
@@ -688,7 +688,7 @@
         "img": "../assets/women/Presto Sneakers Grey.png",
         "price": "150",
         "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       },
       {
         "id": "19",
@@ -699,7 +699,7 @@
         "img": "../assets/women/Jumpman Nike Basketball.png",
         "price": "160",
         "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)",
-        "shadow": "shadow-red-400"
+        "shadow": "red-400"
       },
       {
         "id": "20",
@@ -710,7 +710,7 @@
         "img": "../assets/women/Air Force Women.png",
         "price": "210",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-zinc-500"
+        "shadow": "zinc-500"
       },
       {
         "id": "21",
@@ -721,7 +721,7 @@
         "img": "../assets/women/Nike running shoes WP1.png",
         "price": "150",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-600"
+        "shadow": "pink-600"
       },
       {
         "id": "22",
@@ -732,7 +732,7 @@
         "img": "../assets/women/Skate shoe Nike.png",
         "price": "240",
         "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)",
-        "shadow": "shadow-purple-700"
+        "shadow": "purple-700"
       },
       {
         "id": "23",
@@ -743,7 +743,7 @@
         "img": "../assets/women/Nike Air Max 97.png",
         "price": "170",
         "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)",
-        "shadow": "shadow-fuchsia-200"
+        "shadow": "fuchsia-200"
       },
       {
         "id": "24",
@@ -754,7 +754,7 @@
         "img": "../assets/women/Air Jordan Sneakers.png",
         "price": "260",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-violet-900"
+        "shadow": "violet-900"
       },
       {
         "id": "25",
@@ -765,7 +765,7 @@
         "img": "../assets/women/Air Jordan Shoe.png",
         "price": "180",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       },
       {
         "id": "26",
@@ -776,7 +776,7 @@
         "img": "../assets/women/Air Presto Sneakers.png",
         "price": "140",
         "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)",
-        "shadow": "shadow-sky-300"
+        "shadow": "sky-300"
       },
       {
         "id": "27",
@@ -787,7 +787,7 @@
         "img": "../assets/women/Nike running shoes.png",
         "price": "160",
         "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)",
-        "shadow": "shadow-fuchsia-300"
+        "shadow": "fuchsia-300"
       },
       {
         "id": "28",
@@ -798,7 +798,7 @@
         "img": "../assets/women/Nike jogging Red.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)",
-        "shadow": "shadow-rose-700"
+        "shadow": "rose-700"
       },
       {
         "id": "29",
@@ -809,7 +809,7 @@
         "img": "../assets/women/outdoor Shoe sneakers.png",
         "price": "190",
         "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)",
-        "shadow": "shadow-cyan-300"
+        "shadow": "cyan-300"
       },
       {
         "id": "30",
@@ -820,7 +820,7 @@
         "img": "../assets/women/Air Jordan Nike.png",
         "price": "160",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-600"
+        "shadow": "pink-600"
       },
       {
         "id": "31",
@@ -831,7 +831,7 @@
         "img": "../assets/women/Big Shoe Footwear.png",
         "price": "130",
         "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)",
-        "shadow": "shadow-blue-300"
+        "shadow": "blue-300"
       },
       {
         "id": "32",
@@ -842,7 +842,7 @@
         "img": "../assets/women/Sneakers graphy Shoe.png",
         "price": "140",
         "color": "linear-gradient(135deg,#1CD8D2 0%,#93EDC7 100%)",
-        "shadow": "shadow-teal-300"
+        "shadow": "teal-300"
       },
       {
         "id": "33",
@@ -853,7 +853,7 @@
         "img": "../assets/women/Air Force Nike.png",
         "price": "190",
         "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)",
-        "shadow": "shadow-orange-300"
+        "shadow": "orange-300"
       }
     ],
     "kids": [
@@ -866,7 +866,7 @@
         "img": "../assets/kids/Kids outdoor Shoe.png",
         "price": "130",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-red-400"
+        "shadow": "red-400"
       },
       {
         "id": "2",
@@ -877,7 +877,7 @@
         "img": "../assets/kids/Nike hiking Shoe.png",
         "price": "170",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-purple-500"
+        "shadow": "purple-500"
       },
       {
         "id": "3",
@@ -888,7 +888,7 @@
         "img": "../assets/kids/Kids Max 97 Blue.png",
         "price": "220",
         "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)",
-        "shadow": "shadow-blue-700"
+        "shadow": "blue-700"
       },
       {
         "id": "4",
@@ -899,7 +899,7 @@
         "img": "../assets/kids/Free Air Max.png",
         "price": "140",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-blue-100"
+        "shadow": "blue-100"
       },
       {
         "id": "5",
@@ -910,7 +910,7 @@
         "img": "../assets/kids/Basketball shoe Sportswear.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)",
-        "shadow": "shadow-orange-700"
+        "shadow": "orange-700"
       },
       {
         "id": "6",
@@ -921,7 +921,7 @@
         "img": "../assets/kids/Kids Max 97 sky.png",
         "price": "190",
         "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)",
-        "shadow": "shadow-indigo-400"
+        "shadow": "indigo-400"
       },
       {
         "id": "7",
@@ -932,7 +932,7 @@
         "img": "../assets/kids/Nike running shoes.png",
         "price": "210",
         "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)",
-        "shadow": "shadow-red-900"
+        "shadow": "red-900"
       },
       {
         "id": "8",
@@ -943,7 +943,7 @@
         "img": "../assets/kids/Nike ACG Boot.png",
         "price": "200",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-neutral-700"
+        "shadow": "neutral-700"
       },
       {
         "id": "9",
@@ -954,7 +954,7 @@
         "img": "../assets/kids/Kids New Balance.png",
         "price": "160",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       },
       {
         "id": "10",
@@ -965,7 +965,7 @@
         "img": "../assets/kids/Kids Max 97 Red.png",
         "price": "150",
         "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       },
       {
         "id": "11",
@@ -976,7 +976,7 @@
         "img": "../assets/kids/Nike outdoor Shoe.png",
         "price": "140",
         "color": "linear-gradient(90deg,#FE9B64 0%,#FFFDF6 100%)",
-        "shadow": "shadow-orange-100"
+        "shadow": "orange-100"
       },
       {
         "id": "12",
@@ -987,7 +987,7 @@
         "img": "../assets/kids/Blue basketball shoes.png",
         "price": "230",
         "color": "linear-gradient(135deg,#9BF8F4 0%,#6F7BF7 100%)",
-        "shadow": "shadow-sky-600"
+        "shadow": "sky-600"
       },
       {
         "id": "13",
@@ -998,7 +998,7 @@
         "img": "../assets/kids/Air Max Running.png",
         "price": "140",
         "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)",
-        "shadow": "shadow-yellow-200"
+        "shadow": "yellow-200"
       },
       {
         "id": "14",
@@ -1009,7 +1009,7 @@
         "img": "../assets/kids/Mercurial Vapor Football.png",
         "price": "180",
         "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)",
-        "shadow": "shadow-lime-300"
+        "shadow": "lime-300"
       },
       {
         "id": "15",
@@ -1020,7 +1020,7 @@
         "img": "../assets/kids/Skate shoe Nike.png",
         "price": "170",
         "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)",
-        "shadow": "shadow-orange-900"
+        "shadow": "orange-900"
       },
       {
         "id": "16",
@@ -1031,7 +1031,7 @@
         "img": "../assets/kids/Air Force Nike.png",
         "price": "150",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       },
       {
         "id": "17",
@@ -1042,7 +1042,7 @@
         "img": "../assets/kids/Kids Shoe Footwear.png",
         "price": "160",
         "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)",
-        "shadow": "shadow-pink-300"
+        "shadow": "pink-300"
       },
       {
         "id": "18",
@@ -1053,7 +1053,7 @@
         "img": "../assets/kids/Jumpman Nike Basketball.png",
         "price": "120",
         "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)",
-        "shadow": "shadow-yellow-200"
+        "shadow": "yellow-200"
       },
       {
         "id": "19",
@@ -1064,7 +1064,7 @@
         "img": "../assets/kids/Nike Air Max 97.png",
         "price": "140",
         "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)",
-        "shadow": "shadow-sky-400"
+        "shadow": "sky-400"
       },
       {
         "id": "20",
@@ -1075,7 +1075,7 @@
         "img": "../assets/kids/boot Cleat Shoe.png",
         "price": "210",
         "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       },
       {
         "id": "21",
@@ -1086,7 +1086,7 @@
         "img": "../assets/kids/Presto Sneakers Grey.png",
         "price": "170",
         "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)",
-        "shadow": "shadow-amber-300"
+        "shadow": "amber-300"
       },
       {
         "id": "22",
@@ -1097,7 +1097,7 @@
         "img": "../assets/kids/Nike Footwear Sneakers.png",
         "price": "250",
         "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)",
-        "shadow": "shadow-teal-400"
+        "shadow": "teal-400"
       },
       {
         "id": "23",
@@ -1108,7 +1108,7 @@
         "img": "../assets/kids/Nike jogging Kids.png",
         "price": "180",
         "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)",
-        "shadow": "shadow-red-400"
+        "shadow": "red-400"
       },
       {
         "id": "24",
@@ -1119,7 +1119,7 @@
         "img": "../assets/kids/Sneakers graphy Shoe.png",
         "price": "200",
         "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)",
-        "shadow": "shadow-cyan-200"
+        "shadow": "cyan-200"
       },
       {
         "id": "25",
@@ -1130,7 +1130,7 @@
         "img": "../assets/kids/Kids Max Running.png",
         "price": "170",
         "color": "linear-gradient(90deg,#227B56 0%,#66B790 100%)",
-        "shadow": "shadow-green-800"
+        "shadow": "green-800"
       },
       {
         "id": "26",
@@ -1141,7 +1141,7 @@
         "img": "../assets/kids/Presto Sneakers Grey.png",
         "price": "150",
         "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)",
-        "shadow": "shadow-gray-900"
+        "shadow": "gray-900"
       },
       {
         "id": "27",
@@ -1152,7 +1152,7 @@
         "img": "../assets/kids/Kids Max 97 Black.png",
         "price": "150",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)",
-        "shadow": "shadow-orange-500"
+        "shadow": "orange-500"
       }
     ],
 
@@ -1166,7 +1166,7 @@
         "img": "../assets/collections/Nike hiking Shoe.png",
         "price": "160",
         "color": "linear-gradient(90deg,#99FDFF 0%,#D1B3FF 100%)",
-        "shadow": "shadow-blue-300"
+        "shadow": "blue-300"
       },
       {
         "id": "2",
@@ -1177,7 +1177,7 @@
         "img": "../assets/collections/Nike outdoor Shoe.png",
         "price": "180",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-blue-100"
+        "shadow": "blue-100"
       },
       {
         "id": "3",
@@ -1188,7 +1188,7 @@
         "img": "../assets/collections/Skate shoe Nike.png",
         "price": "230",
         "color": "linear-gradient(90deg,#0061FF 0%,#60EFFF 100%)",
-        "shadow": "shadow-sky-400"
+        "shadow": "sky-400"
       },
       {
         "id": "4",
@@ -1199,7 +1199,7 @@
         "img": "../assets/collections/Nike running shoes WP1.png",
         "price": "160",
         "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)",
-        "shadow": "shadow-slate-900"
+        "shadow": "slate-900"
       },
       {
         "id": "5",
@@ -1210,7 +1210,7 @@
         "img": "../assets/collections/Sneakers graphy Shoe.png",
         "price": "170",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)",
-        "shadow": "shadow-violet-800"
+        "shadow": "violet-800"
       },
       {
         "id": "6",
@@ -1221,7 +1221,7 @@
         "img": "../assets/collections/Air Jordan Sneakers GR78.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)",
-        "shadow": "shadow-amber-300"
+        "shadow": "amber-300"
       },
       {
         "id": "7",
@@ -1232,7 +1232,7 @@
         "img": "../assets/collections/Jumpman Nike Basketball.png",
         "price": "210",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-700"
+        "shadow": "pink-700"
       },
       {
         "id": "8",
@@ -1243,7 +1243,7 @@
         "img": "../assets/collections/Air Jordan Shoe.png",
         "price": "200",
         "color": "linear-gradient(90deg,#99FDFF 0%,#D1B3FF 100%)",
-        "shadow": "shadow-indigo-300"
+        "shadow": "indigo-300"
       },
       {
         "id": "9",
@@ -1254,7 +1254,7 @@
         "img": "../assets/collections/Air Max 97 Red.png",
         "price": "180",
         "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)",
-        "shadow": "shadow-fuchsia-900"
+        "shadow": "fuchsia-900"
       },
       {
         "id": "10",
@@ -1265,7 +1265,7 @@
         "img": "../assets/collections/Air Force Nike.png",
         "price": "190",
         "color": "linear-gradient(90deg,#22567B 0%,#C1E1FF 100%)",
-        "shadow": "shadow-indigo-200"
+        "shadow": "indigo-200"
       },
       {
         "id": "11",
@@ -1276,7 +1276,7 @@
         "img": "../assets/collections/boot Cleat Shoe.png",
         "price": "160",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-600"
+        "shadow": "pink-600"
       },
       {
         "id": "12",
@@ -1287,7 +1287,7 @@
         "img": "../assets/collections/Big Shoe Footwear.png",
         "price": "250",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-purple-100"
+        "shadow": "purple-100"
       },
       {
         "id": "13",
@@ -1298,7 +1298,7 @@
         "img": "../assets/collections/Air Presto Sneakers.png",
         "price": "130",
         "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)",
-        "shadow": "shadow-indigo-300"
+        "shadow": "indigo-300"
       },
       {
         "id": "14",
@@ -1309,7 +1309,7 @@
         "img": "../assets/collections/Air Jordan Sneakers.png",
         "price": "170",
         "color": "linear-gradient(90deg,#FFDCB8 0%,#C7FFD0 100%)",
-        "shadow": "shadow-lime-100"
+        "shadow": "lime-100"
       },
       {
         "id": "15",
@@ -1320,7 +1320,7 @@
         "img": "../assets/collections/Mercurial Vapor Tennis.png",
         "price": "170",
         "color": "linear-gradient(90deg,#0061FF 0%,#60EFFF 100%)",
-        "shadow": "shadow-sky-500"
+        "shadow": "sky-500"
       },
       {
         "id": "16",
@@ -1331,7 +1331,7 @@
         "img": "../assets/collections/Mercurial Vapor Football.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)",
-        "shadow": "shadow-lime-500"
+        "shadow": "lime-500"
       },
       {
         "id": "17",
@@ -1342,7 +1342,7 @@
         "img": "../assets/collections/Free Air Max.png",
         "price": "190",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)",
-        "shadow": "shadow-pink-600"
+        "shadow": "pink-600"
       },
       {
         "id": "18",
@@ -1353,7 +1353,7 @@
         "img": "../assets/collections/Free Air Force.png",
         "price": "150",
         "color": "linear-gradient(90deg,#9A7A63 0%,#FFFFFF 100%)",
-        "shadow": "shadow-amber-100"
+        "shadow": "amber-100"
       },
       {
         "id": "19",
@@ -1364,7 +1364,7 @@
         "img": "../assets/collections/Nike Footwear Sneakers.png",
         "price": "190",
         "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)",
-        "shadow": "shadow-teal-400"
+        "shadow": "teal-400"
       },
       {
         "id": "20",
@@ -1375,7 +1375,7 @@
         "img": "../assets/collections/Nike Flywire Shoe.png",
         "price": "210",
         "color": "linear-gradient(90deg,#9A7A63 0%,#FFFFFF 100%)",
-        "shadow": "shadow-amber-100"
+        "shadow": "amber-100"
       },
       {
         "id": "21",
@@ -1386,7 +1386,7 @@
         "img": "../assets/collections/Nike Air Max 97.png",
         "price": "150",
         "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)",
-        "shadow": "shadow-neutral-900"
+        "shadow": "neutral-900"
       },
       {
         "id": "22",
@@ -1397,7 +1397,7 @@
         "img": "../assets/collections/Nike ACG Boot.png",
         "price": "240",
         "color": "linear-gradient(90deg,#C0C0C0 0%,#E9F7FF 100%)",
-        "shadow": "shadow-neutral-100"
+        "shadow": "neutral-100"
       },
       {
         "id": "23",
@@ -1408,7 +1408,7 @@
         "img": "../assets/collections/outdoor Shoe sneakers.png",
         "price": "170",
         "color": "linear-gradient(90deg,#FFDCB8 0%,#C7FFD0 100%)",
-        "shadow": "shadow-lime-100"
+        "shadow": "lime-100"
       },
       {
         "id": "24",
@@ -1419,7 +1419,7 @@
         "img": "../assets/collections/Nike Sneakers Shoe.png",
         "price": "260",
         "color": "linear-gradient(90deg,#9EFFEF 0%,#C2FFE4 100%)",
-        "shadow": "shadow-emerald-200"
+        "shadow": "emerald-200"
       },
       {
         "id": "25",
@@ -1430,7 +1430,7 @@
         "img": "../assets/collections/Nike outdoor Shoe BZ2.png",
         "price": "180",
         "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)",
-        "shadow": "shadow-yellow-200"
+        "shadow": "yellow-200"
       },
       {
         "id": "26",
@@ -1441,7 +1441,7 @@
         "img": "../assets/collections/Nike New Balance.png",
         "price": "140",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)",
-        "shadow": "shadow-zinc-500"
+        "shadow": "zinc-500"
       },
       {
         "id": "27",
@@ -1452,7 +1452,7 @@
         "img": "../assets/collections/Shoe Nike Toe.png",
         "price": "160",
         "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)",
-        "shadow": "shadow-fuchsia-500"
+        "shadow": "fuchsia-500"
       },
       {
         "id": "28",
@@ -1463,7 +1463,7 @@
         "img": "../assets/collections/Presto Sneakers Grey.png",
         "price": "130",
         "color": "linear-gradient(90deg,#FFDCB8 0%,#C7FFD0 100%)",
-        "shadow": "shadow-emerald-100"
+        "shadow": "emerald-100"
       }
     ],
     "covers": [
