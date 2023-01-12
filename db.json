@@ -2,7 +2,7 @@
   "data": {
     "popular": [
       {
-        "id": "1",
+        "id": 1,
         "title": "Air Max 97 Sky",
         "text": "MEN Outdoor Shoes",
         "rating": "4.9",
@@ -13,7 +13,7 @@
         "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)"
       },
       {
-        "id": "2",
+        "id": 2,
         "title": "Nike Hiking Shoes",
         "text": "Women Hiking Shoes",
         "rating": "4.3",
@@ -1511,7 +1511,7 @@
         "title": "Nike Air Zoom GT Cut 2",
         "text": "The Bred coloryway of Zoom GT Cut 2 will be first to release this Friday, For Nike Members Nation World Wide while Sabrina Ionescus colorway is set for an October 13th release date. In the meantime, enjoy official images of both colorways below.",
         "img": "../assets/stories/Nike Air Zoom GT Cut 2.jpg",
-        "time": "1 Months",
+        "time": "1 Month",
         "url": "https://sneakernews.com/2022/09/13/nike-zoom-gt-cut-2-officially-unveiled/",
         "like": "3/5",
         "by": "Jared Ebanks",
@@ -1560,14 +1560,14 @@
     ],
     "covers": [
       {
-        "menpng": "../assets/covers/mencover.png",
-        "mensvg": "../assets/covers/mencover.svg",
-        "womenpng": "../assets/covers/womencover.png",
-        "womensvg": "../assets/covers/womencover.svg",
-        "kidspng": "../assets/covers/kidscover.png",
-        "kidssvg": "../assets/covers/kidscover.svg",
-        "collectionspng": "../assets/covers/collectionscover.png",
-        "collectionssvg": "../assets/covers/collectionscover.svg"
+        "menpng": "../assets/covers/men.png",
+        "mensvg": "../assets/covers/men.svg",
+        "womenpng": "../assets/covers/women.png",
+        "womensvg": "../assets/covers/women.svg",
+        "kidspng": "../assets/covers/kids.png",
+        "kidssvg": "../assets/covers/kids.svg",
+        "collectionspng": "../assets/covers/collections.png",
+        "collectionssvg": "../assets/covers/collections.svg"
       }
     ]
   }
