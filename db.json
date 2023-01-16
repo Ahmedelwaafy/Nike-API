@@ -777,11 +777,11 @@
     },
     {
       "id": "18",
-      "title": "Presto Sneakers Grey",
+      "title": "Presto Sneakers White",
       "text": "Women Hiking Shoes",
       "rating": "4.2",
       "btn": "Buy Now",
-      "img": "../assets/women/Presto Sneakers Grey.png",
+      "img": "../assets/women/Presto Sneakers White.png",
       "price": "150",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)"
@@ -1348,7 +1348,7 @@
       "text": "Kids Hiking Shoes",
       "rating": "4.5",
       "btn": "Buy Now",
-      "img": "../assets/collections/Air Max 97 Red.png",
+      "img": "../assets/collections/Air Jordan Nike.png",
       "price": "180",
       "shadow": "#701a75",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
