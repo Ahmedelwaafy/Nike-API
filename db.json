@@ -8,6 +8,8 @@
         "rating": "4.9",
         "btn": "Buy Now",
         "img": "../assets/landing/Air Max 97 Sky.png",
+        "size": "l",
+        "shoeColor": "Blue",
         "price": "200",
         "shadow": "#3b82f6",
         "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)"
@@ -19,6 +21,8 @@
         "rating": "4.3",
         "btn": "Buy Now",
         "img": "../assets/landing/Nike Hiking Shoes.png",
+        "size": "l",
+        "shoeColor": "Red",
         "price": "170",
         "shadow": "#ec4899",
         "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)"
@@ -30,6 +34,8 @@
         "rating": "4.7",
         "btn": "Buy Now",
         "img": "../assets/landing/Nike Running Shoes.png",
+        "size": "l",
+        "shoeColor": "Purple",
         "price": "250",
         "shadow": "#a855f7",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -44,6 +50,8 @@
         "rating": "4.8",
         "btn": "Buy Now",
         "img": "../assets/landing/Air Presto Sneakers.png",
+        "size": "l",
+        "shoeColor": "Yellow",
         "price": "140",
         "shadow": "#a3e635",
         "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -55,6 +63,8 @@
         "rating": "4.1",
         "btn": "Buy Now",
         "img": "../assets/landing/Free Air Force.png",
+        "size": "l",
+        "shoeColor": "Black",
         "price": "140",
         "shadow": "#9333ea",
         "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -66,6 +76,8 @@
         "rating": "4.7",
         "btn": "Buy Now",
         "img": "../assets/landing/Mercurial Vapor Jordan.png",
+        "size": "l",
+        "shoeColor": "Blue",
         "price": "270",
         "shadow": "#1e3a8a",
         "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)"
@@ -77,6 +89,8 @@
         "rating": "4.2",
         "btn": "Buy Now",
         "img": "../assets/landing/Nike Running Shoes WP1.png",
+        "size": "l",
+        "shoeColor": "Green",
         "price": "210",
         "shadow": "#22c55e",
         "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -88,6 +102,8 @@
         "rating": "4.1",
         "btn": "Buy Now",
         "img": "../assets/landing/Air Max Running.png",
+        "size": "l",
+        "shoeColor": "Gray",
         "price": "150",
         "shadow": "#737373",
         "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -99,6 +115,8 @@
         "rating": "4.9",
         "btn": "Buy Now",
         "img": "../assets/landing/Blue Basketball Shoes.png",
+        "size": "l",
+        "shoeColor": "Blue",
         "price": "170",
         "shadow": "#6d28d9",
         "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -110,6 +128,8 @@
         "rating": "4.5",
         "btn": "Buy Now",
         "img": "../assets/landing/Nike Footwear Sneakers.png",
+        "size": "l",
+        "shoeColor": "Red",
         "price": "220",
         "shadow": "#be123c",
         "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -121,6 +141,8 @@
         "rating": "4.8",
         "btn": "Buy Now",
         "img": "../assets/landing/Big Shoes Footwear.png",
+        "size": "l",
+        "shoeColor": "Green",
         "price": "130",
         "shadow": "#2dd4bf",
         "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -132,6 +154,8 @@
         "rating": "4.6",
         "btn": "Buy Now",
         "img": "../assets/landing/Kids Jordan Nike.png",
+        "size": "l",
+        "shoeColor": "Blue",
         "price": "180",
         "shadow": "#0f172a",
         "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)"
@@ -143,6 +167,8 @@
         "rating": "4.3",
         "btn": "Buy Now",
         "img": "../assets/landing/Jumpman Nike Basketball.png",
+        "size": "l",
+        "shoeColor": "Orange",
         "price": "230",
         "shadow": "#f97316",
         "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)"
@@ -154,6 +180,8 @@
         "rating": "4.7",
         "btn": "Buy Now",
         "img": "../assets/landing/Nike Air Max 99.png",
+        "size": "l",
+        "shoeColor": "Orange",
         "price": "190",
         "shadow": "#fdba74",
         "color": "linear-gradient(135deg,#DD9E71 0%,#BEE4C9 100%)"
@@ -165,6 +193,8 @@
         "rating": "4.4",
         "btn": "Buy Now",
         "img": "../assets/landing/Skate Shoes Nike.png",
+        "size": "l",
+        "shoeColor": "Green",
         "price": "160",
         "shadow": "#84cc16",
         "color": "linear-gradient(90deg,#B1FE64 0%,#24C75B 100%)"
@@ -268,11 +298,13 @@
   "men": [
     {
       "id": "1",
-      "title": "Air Jordan Sneakers",
+      "title": "Air Jordan Max 2 ",
       "text": "MEN Running Shoes",
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/men/Air Jordan Sneakers.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "170",
       "shadow": "#22d3ee",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -284,6 +316,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/men/Air Jordan Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#737373",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -295,6 +329,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/men/Air Jordan Sneakers GR78.png",
+      "size": "l",
+      "shoeColor": "White",
       "price": "210",
       "shadow": "#171717",
       "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)"
@@ -306,6 +342,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/men/Air Jordan Sneakers.png",
+      "size": "l",
+      "shoeColor": "Green",
       "price": "180",
       "shadow": "#2563eb",
       "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)"
@@ -317,6 +355,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/men/Air Max Running.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -328,6 +368,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/men/Free Air Force.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#737373",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -339,6 +381,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/men/Air Max 97 White.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "250",
       "shadow": "#6b21a8",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -350,6 +394,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/men/Blue basketball shoes.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "230",
       "shadow": "#d4d4d8",
       "color": "linear-gradient(90deg,#22567B 0%,#C1E1FF 100%)"
@@ -361,6 +407,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/men/Air Max 97 Red.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "120",
       "shadow": "#991b1b",
       "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)"
@@ -372,6 +420,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/men/Big Shoe Footwear.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "160",
       "shadow": "#bef264",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -383,6 +433,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/men/Air Max 97 Blue.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "190",
       "shadow": "#7dd3fc",
       "color": "linear-gradient(135deg,#9BF8F4 0%,#6F7BF7 100%)"
@@ -394,6 +446,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/men/Air Presto Sneakers.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "260",
       "shadow": "#fcd34d",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -405,6 +459,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/men/Nike hiking Shoe.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "170",
       "shadow": "#fca5a5",
       "color": "linear-gradient(135deg,#FECDD7 0%,#FECDFB 100%)"
@@ -416,6 +472,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/men/Nike Air Max 97.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "150",
       "shadow": "#2dd4bf",
       "color": "linear-gradient(90deg,#BAFFAD 0%,#ADCEFF 100%)"
@@ -427,6 +485,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/men/Jumpman Nike Basketball.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "180",
       "shadow": "#ef4444",
       "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)"
@@ -438,6 +498,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/men/Mercurial Vapor Tennis.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "130",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -449,6 +511,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/men/Nike outdoor Shoe BZ2.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "190",
       "shadow": "#67e8f9",
       "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)"
@@ -460,6 +524,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/men/Nike jogging shoes.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "150",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -471,6 +537,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/men/Nike New Balance.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "190",
       "shadow": "#fdba74",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -482,6 +550,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/men/Nike jogging Red.png",
+      "size": "l",
+      "shoeColor": "Red",
       "price": "210",
       "shadow": "#f5d0fe",
       "color": "linear-gradient(135deg,#FECDD7 0%,#FECDFB 100%)"
@@ -493,6 +563,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/men/Presto Sneakers Grey.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "150",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -504,6 +576,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/men/Nike Sneakers Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "240",
       "shadow": "#0ea5e9",
       "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)"
@@ -515,6 +589,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/men/outdoor Shoe sneakers.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "170",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -526,6 +602,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/men/Nike outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "260",
       "shadow": "#0f172a",
       "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)"
@@ -537,6 +615,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/men/Sneakers graphy Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "180",
       "shadow": "#fbbf24",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -548,6 +628,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/men/Sneakers Dynamic Fit.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#2dd4bf",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -559,6 +641,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/men/Skate shoe Nike.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "160",
       "shadow": "#f472b6",
       "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)"
@@ -570,6 +654,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/men/Shoe Nike Toe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "130",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)"
@@ -581,6 +667,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/men/Sneakers New Balance.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "170",
       "shadow": "#1c1917",
       "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)"
@@ -595,6 +683,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/women/Nike Sneakers Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)"
@@ -606,6 +696,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/women/Women Max 97 sky.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#8b5cf6",
       "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)"
@@ -617,6 +709,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/women/Mercurial Vapor Tennis.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "220",
       "shadow": "#0ea5e9",
       "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)"
@@ -628,6 +722,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/women/Nike jogging shoes.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "190",
       "shadow": "#f0abfc",
       "color": "linear-gradient(180deg,#FFC7CA 0%,#E299FF 100%)"
@@ -639,6 +735,8 @@
       "rating": "4.0",
       "btn": "Buy Now",
       "img": "../assets/women/Air Max Running.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#99f6e4",
       "color": "linear-gradient(90deg,#9EFFEF 0%,#C2FFE4 100%)"
@@ -650,6 +748,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/women/Women Max 97 Red.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "130",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -661,6 +761,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/women/Women Flywire Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "200",
       "shadow": "#e9d5ff",
       "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)"
@@ -672,6 +774,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/women/Free Air Force.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "210",
       "shadow": "#1e40af",
       "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)"
@@ -683,6 +787,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/women/Basketball shoe Sportswear.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "150",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -694,6 +800,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/women/Nike Footwear Sneakers.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "180",
       "shadow": "#fb923c",
       "color": "linear-gradient(90deg,#F46B45 0%,#EEA849 100%)"
@@ -705,6 +813,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/women/Free Air Max.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#581c87",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -716,6 +826,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/women/Nike New Balance.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "160",
       "shadow": "#c2410c",
       "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)"
@@ -727,6 +839,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/women/boot Cleat Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "270",
       "shadow": "#fde68a",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -738,6 +852,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/women/Women outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "190",
       "shadow": "#be185d",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -749,6 +865,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/women/Shoe Nike Toe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "190",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -760,6 +878,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/women/Air Max Running BL52.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "180",
       "shadow": "#111827",
       "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)"
@@ -771,6 +891,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/women/Nike outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "170",
       "shadow": "#22d3ee",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -782,6 +904,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/women/Presto Sneakers White.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "150",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)"
@@ -793,6 +917,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/women/Jumpman Nike Basketball.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "160",
       "shadow": "#ef4444",
       "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)"
@@ -804,6 +930,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/women/Air Force Women.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "210",
       "shadow": "#71717a",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -815,6 +943,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/women/Nike running shoes WP1.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "150",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -826,6 +956,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/women/Skate shoe Nike.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "240",
       "shadow": "#7e22ce",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -837,6 +969,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/women/Nike Air Max 97.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "170",
       "shadow": "#f5d0fe",
       "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)"
@@ -848,6 +982,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/women/Air Jordan Sneakers.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "260",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -859,6 +995,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/women/Air Jordan Shoe.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "180",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -870,6 +1008,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/women/Air Presto Sneakers.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "140",
       "shadow": "#7dd3fc",
       "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)"
@@ -881,6 +1021,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/women/Nike running shoes.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "160",
       "shadow": "#f0abfc",
       "color": "linear-gradient(90deg,#CFD0FC 0%,#FBD0EE 100%)"
@@ -892,6 +1034,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/women/Nike jogging Red.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "130",
       "shadow": "#be123c",
       "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)"
@@ -903,6 +1047,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/women/outdoor Shoe sneakers.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "190",
       "shadow": "#67e8f9",
       "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)"
@@ -914,6 +1060,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/women/Air Jordan Nike.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "160",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -925,6 +1073,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/women/Big Shoe Footwear.png",
+      "size": "l",
+      "shoeColor": "Blue",
       "price": "130",
       "shadow": "#93c5fd",
       "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)"
@@ -936,6 +1086,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/women/Sneakers graphy Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#5eead4",
       "color": "linear-gradient(135deg,#1CD8D2 0%,#93EDC7 100%)"
@@ -947,6 +1099,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/women/Air Force Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "190",
       "shadow": "#fdba74",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -961,6 +1115,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#ef4444",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -972,6 +1128,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike hiking Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -983,6 +1141,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Max 97 Blue.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "220",
       "shadow": "#1d4ed8",
       "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)"
@@ -994,6 +1154,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Free Air Max.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1005,6 +1167,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Basketball shoe Sportswear.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#c2410c",
       "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)"
@@ -1016,6 +1180,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Max 97 sky.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "190",
       "shadow": "#818cf8",
       "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)"
@@ -1027,6 +1193,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike running shoes.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "210",
       "shadow": "#991b1b",
       "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)"
@@ -1038,6 +1206,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike ACG Boot.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "200",
       "shadow": "#737373",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -1049,6 +1219,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids New Balance.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -1060,6 +1232,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Max 97 Red.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#F9DB43 0%,#FD495E 100%)"
@@ -1071,6 +1245,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#1d4ed8",
       "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)"
@@ -1082,6 +1258,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/kids/Blue basketball shoes.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "230",
       "shadow": "#0284c7",
       "color": "linear-gradient(135deg,#9BF8F4 0%,#6F7BF7 100%)"
@@ -1093,6 +1271,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Air Max Running.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#fef08a",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -1104,6 +1284,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/kids/Mercurial Vapor Football.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "180",
       "shadow": "#bef264",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1115,6 +1297,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Skate shoe Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#7c2d12",
       "color": "linear-gradient(90deg,#000000 0%,#E74C3C 100%)"
@@ -1126,6 +1310,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/kids/Air Force Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -1137,6 +1323,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Shoe Footwear.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#f9a8d4",
       "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)"
@@ -1148,6 +1336,8 @@
       "rating": "4.0",
       "btn": "Buy Now",
       "img": "../assets/kids/Jumpman Nike Basketball.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "120",
       "shadow": "#fef08a",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -1159,6 +1349,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike Air Max 97.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#38bdf8",
       "color": "linear-gradient(131.73deg,#2D47A2 -59.36%,#00FFFF 114.64%)"
@@ -1170,6 +1362,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/kids/boot Cleat Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "210",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#FF9966 0%,#FF5E62 100%)"
@@ -1181,6 +1375,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/kids/Presto Sneakers Grey.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#fcd34d",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -1192,6 +1388,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike Footwear Sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "250",
       "shadow": "#2dd4bf",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -1203,6 +1401,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/kids/Nike jogging Kids.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "180",
       "shadow": "#ef4444",
       "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)"
@@ -1214,6 +1414,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/kids/Sneakers graphy Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "200",
       "shadow": "#67e8f9",
       "color": "linear-gradient(90deg,#E3EDFF 0%,#5DEFFF 100%)"
@@ -1225,6 +1427,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Max Running.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#22c55e",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -1236,6 +1440,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/kids/Presto Sneakers Grey.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#111827",
       "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)"
@@ -1247,6 +1453,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/kids/Kids Max 97 Black.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)"
@@ -1261,6 +1469,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike hiking Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#93c5fd",
       "color": "linear-gradient(90deg,#99FDFF 0%,#D1B3FF 100%)"
@@ -1272,6 +1482,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike outdoor Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "180",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1283,6 +1495,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/collections/Skate shoe Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "230",
       "shadow": "#38bdf8",
       "color": "linear-gradient(90deg,#0061FF 0%,#60EFFF 100%)"
@@ -1294,6 +1508,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike running shoes WP1.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#0f172a",
       "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)"
@@ -1305,6 +1521,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/collections/Sneakers graphy Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1316,6 +1534,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Jordan Sneakers GR78.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#fcd34d",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -1327,6 +1547,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/collections/Jumpman Nike Basketball.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "210",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -1338,6 +1560,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Jordan Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "200",
       "shadow": "#818cf8",
       "color": "linear-gradient(90deg,#99FDFF 0%,#D1B3FF 100%)"
@@ -1349,6 +1573,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Jordan Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "180",
       "shadow": "#701a75",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -1360,6 +1586,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Force Nike.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "190",
       "shadow": "#8b5cf6",
       "color": "linear-gradient(135deg,#99EDFF 0%,#FFA8B0 100%)"
@@ -1371,6 +1599,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/collections/boot Cleat Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -1382,6 +1612,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/collections/Big Shoe Footwear.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "250",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1393,6 +1625,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Presto Sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#818cf8",
       "color": "linear-gradient(135deg,#ADC0FF 0%,#A8AEFF 100%)"
@@ -1404,6 +1638,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Air Jordan Sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#bef264",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1415,6 +1651,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/collections/Mercurial Vapor Tennis.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#0ea5e9",
       "color": "linear-gradient(90deg,#0061FF 0%,#60EFFF 100%)"
@@ -1426,6 +1664,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Mercurial Vapor Football.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -1437,6 +1677,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/collections/Free Air Max.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "190",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -1448,6 +1690,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/collections/Free Air Force.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#115e59",
       "color": "linear-gradient(90deg,#227B56 0%,#66B790 100%)"
@@ -1459,6 +1703,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike Footwear Sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "190",
       "shadow": "#2dd4bf",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -1470,6 +1716,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike Flywire Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "210",
       "shadow": "#115e59",
       "color": "linear-gradient(90deg,#227B56 0%,#66B790 100%)"
@@ -1481,6 +1729,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike Air Max 97.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "150",
       "shadow": "#171717",
       "color": "linear-gradient(90deg,#2E5584 -30%,#031C33 60%)"
@@ -1492,6 +1742,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike ACG Boot.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "240",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1503,6 +1755,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/collections/outdoor Shoe sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#bef264",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1514,6 +1768,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike Sneakers Shoe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "260",
       "shadow": "#a3e635",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1525,6 +1781,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike outdoor Shoe BZ2.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "180",
       "shadow": "#fef08a",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -1536,6 +1794,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/collections/Nike New Balance.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#71717a",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -1547,6 +1807,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/collections/Shoe Nike Toe.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "160",
       "shadow": "#d946ef",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -1558,6 +1820,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/collections/Presto Sneakers Grey.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "130",
       "shadow": "#bef264",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1572,6 +1836,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/landing/Air Max 97 Sky.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "200",
       "shadow": "#3b82f6",
       "color": "linear-gradient(45deg,#72B2E4 0%,#8FDDE2 100%)"
@@ -1583,6 +1849,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/landing/Nike Hiking Shoes.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "170",
       "shadow": "#ec4899",
       "color": "linear-gradient(90deg,#FE6492 0%,#FF8C8C 100%)"
@@ -1594,6 +1862,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/landing/Nike Running Shoes.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "250",
       "shadow": "#a855f7",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1608,6 +1878,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/landing/Air Presto Sneakers.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#a3e635",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1619,6 +1891,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/landing/Free Air Force.png",
+      "size": "l",
+      "shoeColor": "Black",
       "price": "140",
       "shadow": "#9333ea",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -1630,6 +1904,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/landing/Mercurial Vapor Jordan.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "270",
       "shadow": "#1e3a8a",
       "color": "linear-gradient(180deg,#87E0FF 0%,#423687 100%)"
@@ -1641,6 +1917,8 @@
       "rating": "4.2",
       "btn": "Buy Now",
       "img": "../assets/landing/Nike Running Shoes WP1.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "210",
       "shadow": "#22c55e",
       "color": "linear-gradient(90deg,#FDFC47 0%,#24FE41 100%)"
@@ -1652,6 +1930,8 @@
       "rating": "4.1",
       "btn": "Buy Now",
       "img": "../assets/landing/Air Max Running.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "150",
       "shadow": "#737373",
       "color": "linear-gradient(135deg,#ADB2B4 0%,#44464A 135%)"
@@ -1663,6 +1943,8 @@
       "rating": "4.9",
       "btn": "Buy Now",
       "img": "../assets/landing/Blue Basketball Shoes.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "170",
       "shadow": "#6d28d9",
       "color": "linear-gradient(90deg,#4646FB 0%,#BE4DFF 100%)"
@@ -1674,6 +1956,8 @@
       "rating": "4.5",
       "btn": "Buy Now",
       "img": "../assets/landing/Nike Footwear Sneakers.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "220",
       "shadow": "#be123c",
       "color": "linear-gradient(90deg,#EC008C 0%,#FC6767 100%)"
@@ -1685,6 +1969,8 @@
       "rating": "4.8",
       "btn": "Buy Now",
       "img": "../assets/landing/Big Shoes Footwear.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "130",
       "shadow": "#2dd4bf",
       "color": "linear-gradient(135deg,#00F5A0 0%,#00D9F5 100%)"
@@ -1696,6 +1982,8 @@
       "rating": "4.6",
       "btn": "Buy Now",
       "img": "../assets/landing/Kids Jordan Nike.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "180",
       "shadow": "#0f172a",
       "color": "linear-gradient(90deg,#192127 0%,#22006B 100%)"
@@ -1707,6 +1995,8 @@
       "rating": "4.3",
       "btn": "Buy Now",
       "img": "../assets/landing/Jumpman Nike Basketball.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "230",
       "shadow": "#f97316",
       "color": "linear-gradient(90deg,#FF8D4D 0%,#FF3B3B 100%)"
@@ -1718,6 +2008,8 @@
       "rating": "4.7",
       "btn": "Buy Now",
       "img": "../assets/landing/Nike Air Max 99.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "190",
       "shadow": "#fdba74",
       "color": "linear-gradient(135deg,#DD9E71 0%,#BEE4C9 100%)"
@@ -1729,6 +2021,8 @@
       "rating": "4.4",
       "btn": "Buy Now",
       "img": "../assets/landing/Skate Shoes Nike.png",
+      "size": "l",
+      "shoeColor": "red",
       "price": "160",
       "shadow": "#84cc16",
       "color": "linear-gradient(90deg,#B1FE64 0%,#24C75B 100%)"
