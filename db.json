@@ -51,7 +51,7 @@
         "btn": "Buy Now",
         "img": "../assets/landing/Air Presto Sneakers.png",
         "size": "l",
-        "shoeColor": "Yellow",
+        "shoeColor": "Orange",
         "price": "140",
         "shadow": "#a3e635",
         "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -538,7 +538,7 @@
       "btn": "Buy Now",
       "img": "../assets/men/Nike New Balance.png",
       "size": "xl",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "190",
       "shadow": "#fdba74",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -616,7 +616,7 @@
       "btn": "Buy Now",
       "img": "../assets/men/Sneakers graphy Shoe.png",
       "size": "xl",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "180",
       "shadow": "#fbbf24",
       "color": "linear-gradient(90deg,#FEA564 0%,#FFE68C 100%)"
@@ -1769,7 +1769,7 @@
       "btn": "Buy Now",
       "img": "../assets/collections/Nike Sneakers Shoe.png",
       "size": "l",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "260",
       "shadow": "#a3e635",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
@@ -1782,7 +1782,7 @@
       "btn": "Buy Now",
       "img": "../assets/collections/Nike outdoor Shoe BZ2.png",
       "size": "xl",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "180",
       "shadow": "#fef08a",
       "color": "linear-gradient(135deg,#E5A663 0%,#FAEE9E 100%)"
@@ -1808,7 +1808,7 @@
       "btn": "Buy Now",
       "img": "../assets/collections/Shoe Nike Toe.png",
       "size": "m",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "160",
       "shadow": "#d946ef",
       "color": "linear-gradient(0deg,#870FFF 0%,#F89B29 100%)"
@@ -1879,7 +1879,7 @@
       "btn": "Buy Now",
       "img": "../assets/landing/Air Presto Sneakers.png",
       "size": "l",
-      "shoeColor": "Yellow",
+      "shoeColor": "Orange",
       "price": "140",
       "shadow": "#a3e635",
       "color": "linear-gradient(90deg,#AECC5A 0%,#EBEE49 100%)"
